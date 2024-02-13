@@ -1,0 +1,4 @@
+torch
+yolov5
+opencv-python
+datasets

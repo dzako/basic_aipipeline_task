@@ -1,0 +1,11 @@
+Dataset({
+    features: ['image_id', 'image', 'width', 'height', 'objects'],
+    num_rows: 1000
+})
+detection-datasets/coco
+ loading data real time: 6.27 
+ loading data CPU time: 10.93 seconds
+ inferring network real time: 73.87 seconds
+ inferring network CPU time: 211.80 seconds
+ dumping labelled images real time: 10.62 seconds
+ dumping labelled images CPU time: 10.62 seconds

@@ -1,0 +1,8 @@
+Dataset({
+    features: ['image_id', 'image', 'width', 'height', 'objects'],
+    num_rows: 1000
+})
+detection-datasets/coco
+total real preprocess: 2.0429773330688477secs
+total real network inference: 40.43533635139465secs
+total real postprocess: 1.426072120666504secs

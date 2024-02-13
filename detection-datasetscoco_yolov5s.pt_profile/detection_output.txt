@@ -1,0 +1,1500 @@
+images batch 0
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 1
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 2
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 3
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 4
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 5
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 6
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 7
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 8
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 9
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 10
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 11
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 12
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 13
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 14
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 15
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 16
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 17
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 18
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 19
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 20
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 21
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 22
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 23
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 24
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 25
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 26
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 27
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 28
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 29
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 30
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 31
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 32
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 33
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 34
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 35
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 36
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 37
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 38
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 39
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 40
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 41
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 42
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 43
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 44
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 45
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 46
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 47
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 48
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 49
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 50
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 51
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 52
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 53
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 54
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 55
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 56
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 57
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 58
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 59
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 60
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 61
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 62
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 63
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 64
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 65
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 66
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 67
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 68
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 69
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 70
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 71
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 72
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 73
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 74
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 75
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 76
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 77
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 78
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 79
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 80
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 81
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 82
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 83
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 84
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 85
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 86
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 87
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 88
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 89
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 90
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 91
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 92
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 93
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 94
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 95
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 96
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 97
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 98
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 99
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 100
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 101
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 102
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 103
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 104
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 105
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 106
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 107
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 108
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 109
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 110
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 111
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 112
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 113
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 114
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 115
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 116
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 117
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 118
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 119
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 120
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 121
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 122
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 123
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 124
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 125
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 126
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 127
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 128
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 129
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 130
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 131
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 132
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 133
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 134
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 135
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 136
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 137
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 138
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 139
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 140
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 141
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 142
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 143
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 144
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 145
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 146
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 147
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 148
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 149
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 150
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 151
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 152
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 153
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 154
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 155
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 156
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 157
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 158
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 159
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 160
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 161
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 162
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 163
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 164
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 165
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 166
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 167
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 168
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 169
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 170
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 171
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 172
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 173
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 174
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 175
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 176
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 177
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 178
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 179
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 180
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 181
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 182
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 183
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 184
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 185
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 186
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 187
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 188
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 189
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 190
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 191
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 192
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 193
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 194
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 195
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 196
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 197
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 198
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 199
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 200
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 201
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 202
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 203
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 204
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 205
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 206
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 207
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 208
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 209
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 210
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 211
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 212
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 213
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 214
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 215
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 216
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 217
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 218
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 219
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 220
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 221
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 222
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 223
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 224
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 225
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 226
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 227
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 228
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 229
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 230
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 231
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 232
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 233
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 234
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 235
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 236
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 237
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 238
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 239
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 240
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 241
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 242
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 243
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 244
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 245
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 246
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 247
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 248
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)
+images batch 249
+image 1/4: 500x375 1 cat, 1 bed
+image 2/4: 640x427 2 persons, 1 elephant
+image 3/4: 424x640 2 persons, 1 skis
+image 4/4: 425x640 2 traffic lights, 1 stop sign
+Speed: 2.2ms pre-process, 106.2ms inference, 1.6ms NMS per image at shape (4, 3, 640, 640)

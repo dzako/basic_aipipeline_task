@@ -44,13 +44,9 @@ of localized objects.
 Included data from two example experiments (1000 images from coco) using two 
 yolo networks: 
 
-```
-detection-datasetscoco_yolov5n.pt_profile
-```
+[detection-datasetscoco_yolov5n.pt_profile](detection-datasetscoco_yolov5n.pt_profile)
 
-```
-detection-datasetscoco_yolov5s.pt_profile
-```
+[detection-datasetscoco_yolov5s.pt_profile](detection-datasetscoco_yolov5s.pt_profile)
 
 The profile data contains the following text files with profile output:
 
@@ -86,7 +82,7 @@ are no bottlenecks;
 but is hard to profile.
 
 
-Wanted to do , but didn't have time at the end:
+#### Wanted to do , but didn't have time at the end:
  * careful tuning of batch/threads,
  * split code into clear modules, 
  * optimize the images dumping part.
